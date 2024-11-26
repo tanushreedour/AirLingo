@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+streamlit
+Pillow
+azure-ai-textanalytics==5.3.0
+azure-ai-vision-imageanalysis==1.0.0b3
+azure-ai-translation-text==1.0.0b1
+requests
